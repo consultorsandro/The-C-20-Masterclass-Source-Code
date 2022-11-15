@@ -1,11 +1,10 @@
 #include <iostream>
-//.
 
+using std::cout;
+using std::endl;
 
 int main(){
 
-   auto result = (10 <=> 20) > 0;
-   std::cout << result << std::endl;
-
+    cout << "Finalmente começando com C++" << endl;
     return 0;
 }
